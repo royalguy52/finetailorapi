@@ -1,0 +1,15 @@
+GET http://localhost/school/index.php/api/Attendancene/classsummary/0/37
+###
+
+
+
+
+
+POST 
+http://localhost/school/index.php/api/Attendancene
+
+
+{
+"intime":"23:00:00"
+
+};
